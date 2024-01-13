@@ -2,7 +2,6 @@
   "name": "graduate-tracking",
   "version": "1.0.0",
   "description": "毕业生追踪系统",
-  "author": "郑为中 <916077357@qq.com>",
   "private": true,
   "scripts": {
     "dev": "vue-cli-service serve",
